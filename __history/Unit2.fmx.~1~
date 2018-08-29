@@ -7,6 +7,7 @@ object Form2: TForm2
   FormFactor.Width = 1366
   FormFactor.Height = 768
   FormFactor.Devices = [dkDesktop]
+  OnCreate = FormCreate
   object Label1: TLabel
     Height = 15.000000000000000000
     Position.X = 296.000000000000000000

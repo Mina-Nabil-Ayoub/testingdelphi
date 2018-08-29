@@ -9,7 +9,8 @@ uses
 type
   TForm2 = class(TForm)
     Label1: TLabel;
-    procedure FormCreate(Sender: TObject);
+    Button1: TButton;
+    procedure Button1Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -23,9 +24,9 @@ implementation
 
 {$R *.fmx}
 
-procedure TForm2.FormCreate(Sender: TObject);
+procedure TForm2.Button1Click(Sender: TObject);
 begin
-ShowMessage('Hello Git');
+  ShowMessage('Hello Git');
 end;
 
 end.
