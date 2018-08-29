@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018-08-29 12:17:13.811,=C:\Users\maggi essam\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018-08-29 12:18:25.305,D:\test delphi\Unit2.pas=C:\Users\maggi essam\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018-08-29 12:18:25.305,D:\test delphi\Unit2.fmx=C:\Users\maggi essam\Documents\RAD Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2018-08-29 12:18:46.664,D:\test delphi\testdelphi.dproj=C:\Users\maggi essam\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
